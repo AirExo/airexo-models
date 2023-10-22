@@ -2,7 +2,7 @@
 
 [[Paper]](https://arxiv.org/pdf/2309.14975.pdf) [[Project Page]](https://airexo.github.io/)
 
-This repository includes SolidWorks models for our low-cost exoskeleton, adapted to different arms (including Flexiv, UR5, Franka and Kuka).
+This repository includes SolidWorks models for our low-cost exoskeleton ***AirExo***, adapted to different arms (including Flexiv, UR5, Franka and Kuka). We also provide a universal step file for each type of ***AirExo***, please refer to the "steps" directory for details.
 
 ## Citation
 
